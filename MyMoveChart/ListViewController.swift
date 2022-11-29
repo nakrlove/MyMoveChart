@@ -9,6 +9,7 @@ import UIKit
 
 class ListViewController: UITableViewController {
 
+    // 데이터 처리
 //    var dataset = [
 //         ("다크나이트","영웅물에 철학에 음악까지 더해져 예술이 되다","2008-09-04",8.98,"darknight.jpg"),
 //         ("호우시절","때를 알고 내리는 좋은비","2009-10-14",7.31,"rain.jpg"),
