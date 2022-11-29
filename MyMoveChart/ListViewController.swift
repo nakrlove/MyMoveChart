@@ -9,52 +9,7 @@ import UIKit
 
 class ListViewController: UITableViewController {
 
-    // 데이터 처리
-//    var dataset = [
-//         ("다크나이트","영웅물에 철학에 음악까지 더해져 예술이 되다","2008-09-04",8.98,"darknight.jpg"),
-//         ("호우시절","때를 알고 내리는 좋은비","2009-10-14",7.31,"rain.jpg"),
-//        ("말할수 없는 비밀","여기서 너까지 다섯걸음","2015-05-07",9.19,"secret.jpg")
-//    ]
-//    
-//    lazy var list:[MovieVO] = {
-//        var datalist = [MovieVO]()
-//        for (title,desc,opendate,rating,thumbnail) in self.dataset {
-//            let mvo = MovieVO()
-//            
-//            mvo.title = title
-//            mvo.description = desc
-//            mvo.opendate = opendate
-//            mvo.rating = rating
-//            mvo.thumbnail = thumbnail
-//            datalist.append(mvo)
-//            
-//        }
-//        
-//        return datalist
-//    }()
-//  
-//    func makeDataFc() {
-//        var mvo = MovieVO()
-//        mvo.title = "다크나이트"
-//        mvo.description = "영웅물에 철학에 음악까지 더해져 예술이 되다"
-//        mvo.opendate = "2008-09-04"
-//        mvo.rating = 8.98
-//        self.list.append(mvo)
-//        
-//        mvo = MovieVO()
-//        mvo.title = "호우시절"
-//        mvo.description = "때를 알고 내리는 좋은비"
-//        mvo.opendate = "2009-10-14"
-//        mvo.rating = 7.31
-//        self.list.append(mvo)
-//        
-//        mvo = MovieVO()
-//        mvo.title = "말할수 없는 비밀"
-//        mvo.description = "여기서 너까지 다섯걸음"
-//        mvo.opendate = "2015-05-07"
-//        mvo.rating = 9.19
-//        self.list.append(mvo)
-//    }
+    
     
     
     
